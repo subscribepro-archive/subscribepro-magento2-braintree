@@ -3,7 +3,7 @@
     <default>
         <swarming_subscribepro>
             <third_party_payment>
-                <braintree>braintree_cc_vault</braintree>
+                <method_vault>braintree_cc_vault</method_vault>
             </third_party_payment>
         </swarming_subscribepro>
     </default>
